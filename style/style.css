@@ -1,0 +1,55 @@
+body{
+    text-align: center;
+}
+
+.center-but{
+    margin-left: 7rem !important;
+}
+
+@media (max-width:900px) {
+    .cool{
+        margin-left:30% !important;
+        
+    }
+    
+}
+
+
+
+#rec{
+    padding: 7% 15%;
+    position: relative;
+}
+.col-lg-4{
+    margin-bottom: 3%; 
+    
+ }
+.iconfav{
+    font-size: xxx-large;
+    padding: 5%;
+    color: #3DB2FF;
+  margin-bottom: .78rem;
+    
+}
+.iconfav:hover{
+    color: #018fee;
+}
+
+
+#footer{
+    padding-top:2rem;
+    margin: auto;
+    text-align: center;
+}
+.copy{
+    color: grey;
+    font-size: small;
+}
+.iconfavv{
+    margin: 1rem;
+    color: #3DB2FF;
+    
+}
+.iconfavv:hover{
+    color: #018fee;
+}
